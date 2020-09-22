@@ -1,0 +1,6 @@
+URL-decode                  Ctrl+Shift+U
+URL-encode key characters   Ctrl+U
+HTML-decode                 Ctrl+Shift+H
+HTML-encode key characters  Ctrl+H
+Base64-decode               Ctrl+Shift+B
+Base64-encode               Ctrl+B
