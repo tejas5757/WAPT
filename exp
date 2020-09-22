@@ -1,5 +1,10 @@
 Inband: data is extracted using the same channel that is used to inject the SQL code. This is the moststraightforward kind of attack, 
 in which the retrieved data is presented directly in the application web page.
+-> Error-based SQLi is an in-band SQL Injection technique that relies on error messages thrown by the database server to obtain 
+  information about the structure of the database. In some cases, error-based SQL injection alone is enough for an attacker to enumerate an entire database.
+  While errors are very useful during the development phase of a web application, they should be disabled on a live site, or logged to a file with restricted access instead.
+-> Union-based SQLi is an in-band SQL injection technique that leverages the UNION SQL operator to combine the results of two or more SELECT statements into a single
+   result which is then returned as part of the HTTP response.
 
 Out-of-band: data is retrieved using a different channel (e.g., an email with the results of the query is generatedand sent to the tester).
 
