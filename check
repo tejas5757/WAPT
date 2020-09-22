@@ -1,0 +1,26 @@
+http or https
+type of AUTH : DB, OTP, SSO, API
+credentials in GET method
+sqli
+xxs
+directory listing 
+hidden parameter 
+captcha implementatoin
+client side validation bypass
+server banner disclosure
+testing http methods
+google dorking
+clickjacking
+password auto complete off
+host header injection - changing url in request
+robots.txt
+web page comments //comments in source code
+ssl test - testss.sh
+account lockout policy
+password policy
+default cred
+email disclosure
+reset password functionality - if user mail is not validated - getting password in plain text
+remember password functionality
+create account functionality - new user registration
+
