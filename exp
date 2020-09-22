@@ -1,0 +1,7 @@
+Inband: data is extracted using the same channel that is used to inject the SQL code. This is the moststraightforward kind of attack, 
+in which the retrieved data is presented directly in the application web page.
+
+Out-of-band: data is retrieved using a different channel (e.g., an email with the results of the query is generatedand sent to the tester).
+
+Inferential or Blind: there is no actual transfer of data, but the tester is able to reconstruct the information by sendingparticular requests 
+and observing the resulting behavior of the DB Server.
