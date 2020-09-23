@@ -6,8 +6,6 @@
 -> Union-based SQLi is an in-band SQL injection technique that leverages the UNION SQL operator to combine the results of two or more SELECT statements into a single
     result which is then returned as part of the HTTP response.
 
-Out-of-band: data is retrieved using a different channel (e.g., an email with the results of the query is generatedand sent to the tester).
-
 * Inferential or Blind: there is no actual transfer of data, but the tester is able to reconstruct the information by sendingparticular requests 
     and observing the resulting behavior of the DB Server.
 -> Boolean-based SQL Injection is an inferential SQL Injection technique that relies on sending an SQL query to the database which forces the application to return a different 
@@ -15,4 +13,7 @@ Out-of-band: data is retrieved using a different channel (e.g., an email with th
 -> Time-based SQL Injection is an inferential SQL Injection technique that relies on sending an SQL query to the database which forces the database to wait for a specified
     amount of time (in seconds) before responding. The response time will indicate to the attacker whether the result of the query is TRUE or FALSE, Depending on the result, 
     an HTTP response will be returned with a delay, or returned immediately.
+
+Out-of-band: data is retrieved using a different channel (e.g., an email with the results of the query is generatedand sent to the tester).
+
 
