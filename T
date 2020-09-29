@@ -1,1 +1,5 @@
 https://viewdns.info/iphistory/ -> Bypass firewall know real IP
+
+
+SQLi
+https://gerbenjavado.com/manual-sql-injection-discovery-tips/ -> Using SQLmap n bypass FW to get 
