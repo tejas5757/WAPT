@@ -12,11 +12,11 @@ testing http methods
 google dorking
 clickjacking
 password auto complete off
-host header injection - changing url in request
+host header injection - changing url in request - change paste other url in host field (host header misconfiguration)
 robots.txt    https://www.searchenginewatch.com/2019/03/21/robotstxt-best-practice-guide/
 web page comments //comments in source code
 ssl test - testss.sh
-account lockout policy
+account lockout policy - lockout policy after 5 failed login
 password policy
 default cred
 email disclosure
@@ -24,10 +24,7 @@ reset password functionality - if user mail is not validated - getting password 
 remember password functionality
 create account functionality - new user registration
 
-lockout policy after 5 failed login
 check for backups in .zip file
-host header : change paste other url in host field (host header misconfiguration)
-
 *unhide hidden form fields
 
 Test Scenarios for Security Testing:
