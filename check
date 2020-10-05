@@ -13,7 +13,7 @@ google dorking
 clickjacking
 password auto complete off
 host header injection - changing url in request
-robots.txt
+robots.txt    https://www.searchenginewatch.com/2019/03/21/robotstxt-best-practice-guide/
 web page comments //comments in source code
 ssl test - testss.sh
 account lockout policy
