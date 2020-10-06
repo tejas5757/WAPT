@@ -5,3 +5,5 @@ SQLi
 https://gerbenjavado.com/manual-sql-injection-discovery-tips/ -> Using SQLmap n bypass FW to get 
 
 Downloads -> https://www.dr-farfar.com/
+
+Ividoru Chankilu Video Song
