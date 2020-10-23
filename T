@@ -59,3 +59,61 @@ Mohan Anjanikur Yelnadu
 Sitangshu Supakar
 Shyam Achuthan (http://www.shyamachuthan.com)
 Sandeep Shetty (http://sandeep.io/)
+
+22-10-2020 
+
++ Get passive sub domain too
++ Endpoints and directory bruteforce 
++ Entry for organisation
++ Reach subdomain that others cant reach
++ Scan all ports * everyone wont do 
++ https 4443 ssh 2222
++ GITHUB * for recon - password keys, endpoints, subdomains, sublister, knockpy, amass * LDAP credentialds specific keyword security_credentials
++ Ex : yahoo goto > github > corp.gq1.yahoo.com
++ yahoo.com/yahoo
++ Subdomains in Burp + robots.txt + paths disclosed while spider
++ Recon tools : AMASS, mass dns - bruteforce subdomain, wordlist, httprobe, assetfinder example.com 
++ https://intrigue.io/ with github for secrets
++ kubernetes ports exposed : poc 
++ Bitbucket github google dorks
++ CIDRs full port scan
+
+Github - creds, endpoints, infra, product, subdomain, updates, uploads
+
+
+
+jsutin kenedy : github recon
+damien germany
+jlong millionar bug biunty hunter paypal hall of fame
+
+Th3G3nt3lman - twitter
+
+ldap://
+ftp.myntra.com
+172, 192, 10
+cn=
+db_name	db_user	db_host db_password
+info
+server=
+Server=
+login
+url=
+language:bash user:user1 password
+todos
+PublicKey
+
+
+s3
+idrsa private file
+myntra-infrastructure
+devdoc.myntra.com
+dotfiles
+org:myntra.com
+user:user1
+language:python password
+NOT notwantotinclude
+
+@123 #123
+
+\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b
+
